@@ -1,5 +1,5 @@
 # DH 110 Assignment 1 : Accessibility of Washington’s recycling and food security programs
-## Kelly Truong, DH 110 Fall 2021 
+## Kelly Truong | DH 110 | Fall 2021 
 
 ### assignment01 : heuristic evaluation of Washington 
 #### Project Description 
