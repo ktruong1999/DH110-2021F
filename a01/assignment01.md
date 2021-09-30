@@ -3,7 +3,7 @@
 
 ### assignment01 : heuristic evaluation of Washington 
 #### Project Description 
-For this project I chose to explore how Washington's government website informs users on state recycling and food security programs. I chose these departments specifically because I want to learn more about how governments are empowering individuals to impact their environment and also how Washington is combatting food security. Both of these topics are important to me and I think that good UX can influence how users discover ways they can help their community.
+For this project I chose to explore how Washington's government website informs users on state recycling and food security programs. I chose these departments specifically because I want to learn more about how governments are empowering individuals to impact their environment and also how Washington is combatting food security. Both of these topics are important to me and I think that good UX can influence how users discover ways they can help their community. Good usability for these government programs can be the difference between people doing nothing and making sustainable habits. By exploring these topics I hope to learn more about how I can contribute to recycling and food security as well as how much usability can impact individuls to stay informed to imrpove their communities.
 
 ---
 
