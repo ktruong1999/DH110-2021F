@@ -7,7 +7,7 @@
 The Washington State Agriculture Website contains information on programs in Washington for food security access, permits, food certification, and more. I was interested in this website particuluarly because I care a lot about food insecurity and proper UX can be impactful to helping individuals in need of food access resources.
 
 ##### Purpose of Usability Testing
-After conducting a heuristic evaluation of the website, I narrowed down my top usability concerns that I wanted to confirm by testing with a participant. Specifically, I wanted to see if the problems I identified would disrupt a participant's experience when completing a task. This usability test is to evaluate the Washing State's Agriculutre Website based on effectivenes, efficiency, and satisfaction of completing tasks.  
+After conducting a heuristic evaluation of the website, I narrowed down my top usability concerns that I wanted to confirm by testing with a participant. I wanted to see if the problems I identified would disrupt a participant's experience when completing a task. Specifically I was interested in seeing how the participant's experience would be affected by the problems I identified in aesthetics, consistency and standards, and flexibility. This usability test is to evaluate the Washing State's Agriculutre Website based on effectivenes, efficiency, and satisfaction of completing tasks.  
 
 #### Methodology 
 ---
