@@ -1,4 +1,4 @@
-# DH 110 Assignment 3 : Contextual Inquiry
+# DH 110 Assignment 4 : Persona & Scenario
 ## Kelly Truong | DH 110 | Fall 2021 
 
 ### Purpose of UX Storytelling
