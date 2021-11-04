@@ -43,9 +43,16 @@ I created personas and scenarios relating to the research questions
 ### Low-Fidelity Prototype Testing
 #### Task 1 : initial search
 ![image 3 (1)](https://user-images.githubusercontent.com/68669305/140387508-075a8978-af7e-436f-ae13-950e5b2288a5.png)
+> I thought the participant might have been confused by the entry point for finding a food access center, I intended for either the headline or the "learn more" link to take the user to the next screen. My participant recognized the headline as a link because of the underlining, and expected the "learn more" link to be like a dropdown for information.
+> I was also surprised the participant didn't follow the flow to fill out the zip code and slider one at a time. She expected that both fields would be filled and that a submit button would be used to take her to the results page after
 #### Task 1 : search results
 ![image 4](https://user-images.githubusercontent.com/68669305/140387569-53b45b0f-6172-4296-a5f6-c609a8430bb9.png)
+> My participant couldn't tell the difference between screens 3 and 4, they were intended to be different results pages that change instantaneously whenever the zip code or slider is changed. She was also confused by the tag acronyms
 #### Task 2 : filtering for volunteer opportunities
 ![image 5](https://user-images.githubusercontent.com/68669305/140387817-020298fc-89ab-4b72-8425-5df39cab507c.png)
+> my participant's initial reaction was to tap on the "VOLUNTEER" tag on one of the cards, she said she expected to see the page change to see other cards with the volunteer tag. Afterwards she tried the filter icon, her only comment was to make the dropdown into an overlay instead for bigger tap areas and to prevent misclicks. 
+> The last screen she found a mistake that one opportunity does not have the volunteer tag and also commented on a way to escape back to the home screen. The back arrow in the top left was intended to take the user back to the home page, but the participant thought it was to go back to the previous screen.
+### Reflection
+When designing the wireframes I was very uncertain what kind of feedback I'd get, I thought the tasks were straightforward and I wouldn't get much feedback. To my surprise my participant had a lot of feedback on her expectations of the flow. 
 
-
+To improve I'd want to add a button to confirm the search criteria to show users the different search results clearly. Maybe I could also use a help button in the top corner to explain the tag acronyms. I could also make the escape route clearer, labeling the top left arrow with a breadcrumb or adding a nav bar with a home button.
