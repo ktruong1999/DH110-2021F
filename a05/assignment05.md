@@ -55,4 +55,6 @@ I created personas and scenarios relating to the research questions
 ### Reflection
 When designing the wireframes I was very uncertain what kind of feedback I'd get, I thought the tasks were straightforward and I wouldn't get much feedback. To my surprise my participant had a lot of feedback on her expectations of the flow. 
 
-To improve I'd want to add a button to confirm the search criteria to show users the different search results clearly. Maybe I could also use a help button in the top corner to explain the tag acronyms. I could also make the escape route clearer, labeling the top left arrow with a breadcrumb or adding a nav bar with a home button.
+To improve I'd want to add a button to confirm the search criteria to show users the different search results clearly. Maybe I could also use a help button in the top corner to explain the tag acronyms. I could also make the escape route clearer, labeling the top left arrow with a breadcrumb or adding a nav bar with a home button. Possibly another entry point to filter for volunteer opportunities could be to tap the "VOLUNTEER" tag on any of the cards.
+
+Overall it was helpful to see how differently wireframes at this stage can be interpreted. Talking with my participant really helped me compare the flow of my app compared to others, and realize other ways to increase efficiency.
