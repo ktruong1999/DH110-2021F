@@ -34,9 +34,17 @@ Figma File Link : https://www.figma.com/file/M6A7VZQyLYLIX6Ul7yVNxV/DH-110-figma
 ### Impression Test
 ---
 #### Transcript
-link to transcript can be found here : 
+For the impression test I invited my friend who is familiar with both interface design and food security to give his impressions on my design.
+link to transcript can be found here : https://docs.google.com/document/d/1_rvBbFbSMF_t6eDfVNNPFKGhoTYeay-yU2dSHSrC92s/edit?usp=sharing
 #### Summary
+<ul>
+  <li>Participant liked the colors, felt like they complemented each other well and was easy on the eyes</li>
+  <li>thought the fonts weren't consistent and affected some readability</li>
+  <li>Found search results page intutiive and similar to other search engine platforms</li>
+  <li>Liked the colored tags but felt like it compromised readability at times, yet the lack of color in the filter overlay feels dull in comparison to the rest of the app</li>
+   <li>thinks the filter overlay isnt enough for sorting feature, could use more user control for proximity or other search preferences</li>
 
+ </ul>
 ### Accessibility 
 ---
 ![Screenshot 2021-11-08 9 20 07 PM](https://user-images.githubusercontent.com/68669305/140871884-633c7fda-d0bc-4e06-8ef6-307cc3b6b124.png)<br>
@@ -47,4 +55,6 @@ link to transcript can be found here :
 ![Screenshot 2021-11-08 9 28 1](https://user-images.githubusercontent.com/68669305/140872443-f73657c2-9295-47a4-9bcd-93ca9914e6b3.png)
 
 #### Design System Reflection
-Overall I feel like I was able to create a very clean design system. I think my font choices were very concise and show a good level of hierarchy that helps communicate purpose in my screen designs. I really liked the colors that were generated and that tinting the system white and balck helped make the design more cohesive. My biggest struggle was the layout design because it can be hard to adjust a set font size around layout rows that aren't adjusted directly
+Overall I feel like I was able to create a very clean design system. I think my font choices were very concise and show a good level of hierarchy that helps communicate purpose in my screen designs. I really liked the colors that were generated and that tinting the system white and balck helped make the design more cohesive. My biggest struggle was the layout design because it can be hard to adjust a set font size around layout rows that aren't adjusted directly, but with expeirmenting I think I was able to find a balance. I think i also chose approriate border radiuses for each purpose which helps the system look clean and consistent.
+
+It was also nice using tools like adobe color and stark on figma to help decide parts of the interface.The impression test was also fun to see how a user may see the design differently, as more helpful or more distracting to their process.
