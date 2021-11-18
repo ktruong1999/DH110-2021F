@@ -4,10 +4,18 @@
 ### About the project
 ---
 I'm continuing my redesign of the Washington State Food Access page in hopes that UX would add to the user's experience accessing food resources or opportunities. At this stage I've made the prototype interactable, using smart animate and overlays to simulate how the finished product would operate. This stage is important to get the most accurage feedback about the flow, UI, copywriting, etc. This prototype was built off of my low fidelity prototype and interface design assignment, with more detail added to each screen to mimic a real app.
+
 ### Interactive Prototype 
 ---
 link to prototype : https://www.figma.com/proto/M6A7VZQyLYLIX6Ul7yVNxV/DH-110-figma-demo?node-id=120%3A126&scaling=scale-down&page-id=8%3A16&starting-point-node-id=120%3A126&show-proto-sidebar=1
 
+#### Prototype Features
+<ol>
+  <li>Learn about food access</li>
+  <li>search for food resources, food banks, food programs, etc.</li>
+  <li>filter for specific programs or volunteer opporutnities</li>
+</ol>
+![image 8](https://user-images.githubusercontent.com/68669305/142354032-b911a312-148b-431c-a091-3156f9e1777b.png)
 
 ### Wireflow with interface design
 ---
