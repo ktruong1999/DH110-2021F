@@ -1,4 +1,6 @@
 ## Improving Food Accessibility with UX Research & Design
+### Kelly Truong | DH 110 | Fall 2021
+---
 
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
