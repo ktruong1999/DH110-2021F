@@ -15,7 +15,9 @@ link to prototype : https://www.figma.com/proto/M6A7VZQyLYLIX6Ul7yVNxV/DH-110-fi
   <li>search for food resources, food banks, food programs, etc.</li>
   <li>filter for specific programs or volunteer opporutnities</li>
 </ol>
-![image 8](https://user-images.githubusercontent.com/68669305/142354032-b911a312-148b-431c-a091-3156f9e1777b.png)
+
+![image 8](https://user-images.githubusercontent.com/68669305/142354075-f8119064-6cb7-4aa0-81c4-dbc96596e4fe.png)
+
 
 ### Wireflow with interface design
 ---
