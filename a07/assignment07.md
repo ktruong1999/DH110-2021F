@@ -30,7 +30,25 @@ link to prototype : https://www.figma.com/proto/M6A7VZQyLYLIX6Ul7yVNxV/DH-110-fi
 ### Cognitive Walkthrough 
 ---
 Comments from the cognitive walkthrough with participants can be found throughout the prototype in comment mode (c).
-![image 3](https://user-images.githubusercontent.com/68669305/142351973-0e67335a-74bb-4442-804c-fb87b00b4803.png)
-![image 4](https://user-images.githubusercontent.com/68669305/142351976-0f1ff05b-4d06-45bc-ba67-211d280ca1f3.png)
+![image 3](https://user-images.githubusercontent.com/68669305/142577740-51c6a491-58d8-4097-88bc-a184647a44a4.png)
+![image 4](https://user-images.githubusercontent.com/68669305/142577744-7beed458-13d1-493a-8c21-033ac94fde5e.png)
+
 #### Summary 
 I collected feedback from 2 participants during our class activity. I think the session went well, I always learn more than I expect. I always go into sessions thinking theres nothing else the participant can think of besides what I already provided, but being able to understand why some things are confusing helps to think of solutions. My participants had really good suggestions on ways to improve the flow. For the home screen i got some feedback that the link previews aren't very descriptive of the activity for each page, my users suggested tags under each link while I think better copywriting could suggest the interaciton as well. I've gotten multiple comments that the resource tag acronyms are also confusing, based on this I would add an interaction to hold/hover over a tag to reveal the full name as a tooltip. From suggestions I also think it could be helpful to seperate the search for finding food resources vs finding volunteer opporutnities or improve copywriting to suggest you can search for either.
+
+### Improvements
+Based on the feedback from my participants in the cognitive walkthrough I added the following improvements to my prototype 
+<ol>
+  <li>improved copywriting for homepage links to be more descriptive about interactions</li>
+  <li>seperated flow for food access resource search and volunteer opporutnity search</li>
+  <li>added tool-tips for full acronym names when tags are tapped</li>
+</ol>
+
+![image 8](https://user-images.githubusercontent.com/68669305/142582632-86c9351e-e989-4779-86ea-74d57cc6ec0a.png)
+
+![image 6](https://user-images.githubusercontent.com/68669305/142582278-ca6c0051-b06c-448a-bf63-d0d854d601de.png) 
+
+![image 7 (1)](https://user-images.githubusercontent.com/68669305/142582290-474218a8-0583-4a6d-93c1-64044a9aff72.png)
+
+![image 9](https://user-images.githubusercontent.com/68669305/142581622-30693107-3475-4965-bdab-55fe4e1ab084.png) 
+
