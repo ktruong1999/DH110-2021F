@@ -21,6 +21,13 @@ For user research I conducted a (Cogntiive Walkthrough)[https://github.com/ktruo
 As a part of UX Storytelling I crafted (Personas)[https://github.com/ktruong1999/DH110-2021F/blob/main/a04/assignment04.md] in order to take the perspective of the user audience I had in mind for this product. It is essential to take the perspective of the user to build products that are designed with HCD principles in mind. The use of personas can help eliminate biases as a researcher by using the typical user’s point of view. I created 2 personas, one persona seeking food related volunteer opporutnities and one seeking food accessibility resources.
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
+Based off of my User Resarch and Personas, I came up with 3 features I wanted to implement in my redesign.
+<ol>
+ <li>Search radius by zip code and distance</li>
+ <li>Filtering System</li>
+ <li>Tagging system for resources and opportunities</li>
+</ol> 
+I then started to wireframe these features on paper
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
