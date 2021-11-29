@@ -3,19 +3,22 @@
 ---
 
 ### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+This project focuses on how to improve the Washington State Agriculture Food Access page through User Experience Research in hopes of making the website more accessible and usable for audiences. The food access website can be used for multiple purposes, for users to gain awareness and learn about food insecurity, find volunteering opporutnities, and also find food resources like food banks and food programs. It was my hope that with improvements to the site UX that findability and accesibility for food resources could increase for individuals in need of food access information. Also making information more readily available could encourage community members to gain awareness and find ways they can combat food insecurity in their area. Throughout this project I designed several features to add onto the website based on user needs and behavior I found from my user research.
 
 ### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+The purpose of this project is to improve findability for food access resources that fit the user's constraints such as time and location proximity. Issues with the current site included mainly site navigation and readability of information, which has impacted the findability of resources. The question around this project is : <i> How might we improve the Washington State Agriculture Food Access Website to make resources more findable? </i> 
 
-### Competitor analysis
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+### Competitor analysis : Heuristic Evaluation
+At the start of the project I conducted a (Heuristic Evaluation)[https://github.com/ktruong1999/DH110-2021F/blob/main/a01/assignment01.md] based on the Nielson Norman 10 Usability Heuristics in order to evaluate the website to baseline standards. Many of the violations were under aesthetics and minimal design, needing improvement in readability of information. Other problems fall under consistency and standards, with multiple entrypoints with ambiguous copywriting and some repetitive links. 
+
+### Competitor analysis : Usability Testing
+Still evaluating the existing product, next came seeing if other users found the same issues I did in my Heuristic Evaluation. In my (Usability Testing)[https://github.com/ktruong1999/DH110-2021F/blob/main/a02/assignment02.md] I got a participant to go through the exisiting website and go through tasks involving finding food resources, then we'd evaluate and reflect on their process. Getting feedback from users helped to confirm which issues to work on based on the Heuristic Evaluation.
 
 ### User research 
-Summary and link to your assignment folder
+For user research I conducted a (Cogntiive Walkthrough)[https://github.com/ktruong1999/DH110-2021F/blob/main/a03/assignment03.md], combining pariticipatory observation and interview methods to understand a users normal process of finding food resources. I observed and interviewed my participant on her process of researching food insecurity and finding volunteer opporutnities. It was insightful to see that the two main constraints in her search were the location proximity of the volunteer event and the timing around her own schedule. 
 
 ### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+As a part of UX Storytelling I crafted (Personas)[https://github.com/ktruong1999/DH110-2021F/blob/main/a04/assignment04.md] in order to take the perspective of the user audience I had in mind for this product. It is essential to take the perspective of the user to build products that are designed with HCD principles in mind. The use of personas can help eliminate biases as a researcher by using the typical user’s point of view. I created 2 personas, one persona seeking food related volunteer opporutnities and one seeking food accessibility resources.
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
