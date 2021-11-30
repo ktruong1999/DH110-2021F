@@ -44,7 +44,8 @@ Eventually I moved onto experimenting with design variations to decide what the 
 After multiple rounds of feedback and iterating upon the design, I've creaed a high fidelity interactable prototype using Figma.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FM6A7VZQyLYLIX6Ul7yVNxV%2FDH-110-figma-demo%3Fnode-id%3D232%253A284%26scaling%3Dscale-down%26page-id%3D8%253A16%26starting-point-node-id%3D268%253A127" allowfullscreen></iframe>
 
-<-- ### Pitch Video -->
+### Pitch Video
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/651412014?h=89c6ae73d9" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 ### Conclusion : what did you learn throughout the process?
