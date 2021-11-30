@@ -37,8 +37,12 @@ Once new features were ideated for a redesign, I started to sketch on paper how 
 ![image](https://user-images.githubusercontent.com/68669305/143956464-a53f41e0-6cf0-41c1-a6ed-255b347f1c84.png)
 ![image](https://user-images.githubusercontent.com/68669305/143956579-372766e0-5289-4583-9d77-ecf0757acd3d.png)
 
+Eventually I moved onto experimenting with design variations to decide what the more finalized design would be like.
+![image](https://user-images.githubusercontent.com/68669305/143969061-ba5a5099-7d3c-4337-904f-c7ac93a447be.png)
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+After multiple rounds of feedback and iterating upon the design, I've creaed a high fidelity interactable prototype using Figma.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FM6A7VZQyLYLIX6Ul7yVNxV%2FDH-110-figma-demo%3Fnode-id%3D232%253A284%26scaling%3Dscale-down%26page-id%3D8%253A16%26starting-point-node-id%3D268%253A127" allowfullscreen></iframe>
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
